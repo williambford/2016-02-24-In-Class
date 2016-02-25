@@ -8,20 +8,27 @@ div {
 
 .header {
   background-color: peachpuff;
+  width: 100%;
 }
 
 .navigation {
   background-color: orange;
+  width: 20%;
 }
 
 .main-content {
   background-color: lightblue;
+  width: 50%;
+  padding: 5%;
+  height: 500px;
 }
 
 .sidebar {
   background-color: goldenrod;
+  width: 30%
 }
 
 .footer {
   background-color: lightgreen;
+  width: 100%
 }
